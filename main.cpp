@@ -20,7 +20,7 @@ int main(int argc, char **argv)
 	if(args.size() == 0)
 	{
 		cout << "ircom device [opts]" << endl;
-		cout << " device = aircon, amp, aircon" << endl;
+		cout << " device = aircon, amp, light" << endl;
 		cout << " opts : independent on devices" << endl;
 		return 0;
 	}		
